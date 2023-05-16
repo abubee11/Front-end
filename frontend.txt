@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>News Media Website</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>News Media Website</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">News</a></li>
+				<li><a href="#">Sports</a></li>
+				<li><a href="#">Entertainment</a></li>
+				<li><a href="#">Contact Us</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Latest News</h2>
+			<article>
+				<h3>Headline Goes Here</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id ligula euismod, feugiat odio vel, faucibus metus. Fusce sed est at leo venenatis auctor.</p>
+			</article>
+			<article>
+				<h3>Another Headline Goes Here</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id ligula euismod, feugiat odio vel, faucibus metus. Fusce sed est at leo venenatis auctor.</p>
+			</article>
+		</section>
+		<aside>
+			<h2>Popular Articles</h2>
+			<ul>
+				<li><a href="#">Article Title 1</a></li>
+				<li><a href="#">Article Title 2</a></li>
+				<li><a href="#">Article Title 3</a></li>
+				<li><a href="#">Article Title 4</a></li>
+			</ul>
+		</aside>
+	</main>
+	<footer>
+		<p>&copy; 2023 News Media Website. All rights reserved.</p>
+	</footer>
+</body>
+</html>
